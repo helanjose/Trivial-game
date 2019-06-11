@@ -1,0 +1,37 @@
+.container-fluid{
+    background-image:url("../images/bg.jpeg");
+    color:rgb(236, 222, 15);
+    height: 1000px;
+    font-style: italic;
+    text-align: center;
+}
+.container-fluid2{
+    background-image:url("../images/bg.jpeg");
+    color:rgb(236, 222, 15);
+    height: 1000px;
+    font-style: italic;
+    text-align: center;
+    border-style: solid;
+    border-color: #08a515;
+}
+#head{
+
+    padding-top: 40px;
+    
+}
+
+#exam{
+    width: 2000px;
+    height: 650px;
+    margin-top: 50px;
+    color: #08a515;
+    
+    background-image: url("../images/bg6.jpeg");
+}
+#finished{
+ float: left;
+ margin-top: 30px;
+ 
+}
+
+
